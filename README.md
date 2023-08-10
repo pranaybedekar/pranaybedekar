@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pranay Bedekar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaybedekar&label=Profile%20views&color=0e75b6&style=flat" alt="pranaybedekar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranaybedekar&theme=matrix" alt="pranaybedekar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranaybedekar&theme=juicyfresh" alt="pranaybedekar" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks and Trending technologies**
 
@@ -12,13 +12,14 @@
 - 📄 my Resume **https://drive.google.com/file/d/1WeTaQ5JTHCq9J4vztYaVDSrDzOE_l9sy/view**
 - 📫 How to reach me? **You can contact me on any of the socials listed below.**
 
-<div> <a href="https://www.linkedin.com/in/pranay-bedekar-827968157" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://twitter.com/PranayBedekar?s=08" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pranay-bedekar-827968157" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/pranaybedekar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/pranay_bedekar" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:Front-end Developer, Java Developer & AI Developer."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pranay-bedekar-827968157" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="pranay-bedekar-827968157" height="30" width="40" /></a><a href="https://fb.com/pranay.bedekar.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="pranay.bedekar.58" height="30" width="40" /></a><a href="https://www.hackerrank.com/pranaybedekar211" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="pranaybedekar211" height="30" width="40" /></a><a href="https://instagram.com/pranay_bedekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="pranay_bedekar" height="30" width="40" /></a></p>
+<a href="https://twitter.com/PranayBedekar?s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="PranayBedekar?s=08" height="30" width="40" /></a><a href="https://linkedin.com/in/pranay-bedekar-827968157" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="pranay-bedekar-827968157" height="30" width="40" /></a><a href="https://fb.com/pranay.bedekar.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="pranay.bedekar.58" height="30" width="40" /></a><a href="https://www.hackerrank.com/pranaybedekar211" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="pranaybedekar211" height="30" width="40" /></a><a href="https://instagram.com/pranay_bedekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="pranay_bedekar" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -50,9 +51,9 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaybedekar&hide_progress=true&theme=dark" alt=pranaybedekar />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaybedekar&hide_progress=true&theme=highcontrast" alt=pranaybedekar />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pranaybedekar&show_icons=true&locale=en&theme=nightowl" alt="pranaybedekar" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pranaybedekar&show_icons=true&locale=en&theme=algolia" alt="pranaybedekar" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranaybedekar&theme=dark" alt="pranaybedekar" /></p>
 
