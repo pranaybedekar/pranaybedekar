@@ -9,7 +9,6 @@
 - 👀 I’m interested in **Front-end Developer, Java Developer & AI Developer.**
 - 👨‍💻 All of my projects are available at **https://pranaybedekar.github.io/Portfolio-Website/#/**
 - 📝 I regularly write articles on **https://pranaybedekar.github.io/**
-- 📄 my Resume **https://drive.google.com/file/d/1WeTaQ5JTHCq9J4vztYaVDSrDzOE_l9sy/view**
 - 📫 How to reach me? **You can contact me on any of the socials listed below.**
 
 <div> <a href="https://twitter.com/PranayBedekar?s=08" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
